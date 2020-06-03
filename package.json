@@ -1,0 +1,11 @@
+{
+  "name": "16_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./code/chapter/16_game.js "
+  },
+  "author": "",
+  "license": "ISC"
+}
